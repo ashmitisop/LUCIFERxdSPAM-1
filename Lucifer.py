@@ -20,7 +20,6 @@ heroku_api = "https://api.heroku.com"
 sudousers = os.environ.get("SUDO", None)
 
 GROUP = [-1001682756427]
-KARPITSPAM = [5082902573]
 
 
 a = API_ID
@@ -81,7 +80,7 @@ put = ""
 
 que = {}
 
-SMEX_USERS = [5088683114, 5098147320]
+SMEX_USERS = [5082902573]
 for x in SUDO: 
     SMEX_USERS.append(x)
     
