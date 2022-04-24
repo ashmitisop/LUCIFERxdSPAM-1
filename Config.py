@@ -1,6 +1,5 @@
 from os import getenv
 from dotenv import load_dotenv
-
 load_dotenv()
 
 STRING = getenv("STRING")
@@ -30,5 +29,4 @@ STRING24 = getenv("STRING24")
 STRING25 = getenv("STRING25")
 API_ID = getenv("API_ID")
 API_HASH = getenv("API_HASH")
-HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 SUDO = list(map(int, getenv("SUDO").split()))

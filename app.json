@@ -1,7 +1,7 @@
 {
-  "name": "LUCIFER XD SPAM",
-  "description": "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗙𝗔𝗦𝗧 & 𝗦𝗠𝗢𝗢𝗧𝗛𝗘𝗦𝗧 𝗦𝗣𝗔𝗠",
-  "logo": "https://te.legra.ph/file/c3740f68aeec41433bc5f.jpg",
+  "name": "𝐋𝐔𝐂𝐈𝐅𝐄𝐑𝐱𝐝𝐒𝐏𝐀𝐌",
+  "description": "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗙𝗔𝗦𝗧 & 𝗦𝗠𝗢𝗢𝗧𝗛𝗘𝗦𝗧 𝗦𝗣𝗔𝗠 𝗕𝗬 @𝐇𝐈𝐍𝐃𝐔_𝐋𝐎𝐑𝐃_𝐋𝐔𝐂𝐈𝐅𝐄𝐑",
+  "logo": "https://te.legra.ph/file/2347d14f71d170aa3a536.jpg",
   "keywords": [
     "spambot",
     "telegram",
@@ -134,7 +134,7 @@
         "required": false
       },
       "API_ID": {
-        "description": "𝐴𝑃𝐼 𝐼𝐷",
+        "description": "API ID",
         "value": "",
         "required": true
       },
@@ -142,11 +142,6 @@
         "description": "Api Hash",
         "value": "",
         "required": true
-      },
-      "HEROKU_API_KEY": {
-        "description": "PUT YOUR HEROKU API KEY",
-        "value": "",
-        "required": true  
       },
       "SUDO": {
         "description": "Sudo Users Id",
